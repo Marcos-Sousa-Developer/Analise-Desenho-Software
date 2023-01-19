@@ -23,5 +23,3 @@ elevada. Cada participante do sistema pode estar envolvido simultaneamente em vÃ
 ```bash
 mvn test
 ```
-
-
